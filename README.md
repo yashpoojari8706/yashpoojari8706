@@ -1,16 +1,22 @@
-## Hi there 👋
+👋 Hello there! I'm Yash Poojari.
 
-<!--
-**yashpoojari8706/yashpoojari8706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍🎓 Currently, I'm a student pursuing a diploma in Computer Science Engineering at Shri Bhagubhai Mafatlal Polytechnic.
 
-Here are some ideas to get you started:
+👨‍💻 Presently, I'm interning as a Website Designer at Hophead until June 22nd 2024. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 Skills: 
+
+   HTML, CSS, JS
+   C, C#
+   Java, Python
+   Data Structures
+   MySQL, PHP
+   Basic knowledge of .NET Framework
+
+🚀 Some of my projects include:
+
+📝 Typing Test Application in Java
+🏨 Real Estate Website using HTML, CSS, and JS
+🛫 Tours and Travelling Website using PHP, CSS, JS and MySQL
+
+Let's collaborate and create something incredible together!
