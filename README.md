@@ -17,6 +17,6 @@
 
 📝 Typing Test Application in Java
 🏨 Real Estate Website using HTML, CSS, and JS
-🛫 Tours and Travelling Website using PHP, CSS, JS and MySQL
+🛫 Tours and Travelling Website using PHP, CSS, JS and   MySQL
 
 Let's collaborate and create something incredible together!
