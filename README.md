@@ -19,7 +19,7 @@
 <br> Let's connect and build something amazing together!<br><br>
 Connect With me on:
 <div align="left">
-  <a href = 'www.linkedin.com/in/yash-poojari-3444952b0'>
+  <a href = 'https://www.linkedin.com/in/yash-poojari-3444952b0'>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="Linkedln logo"  /></a>
   <img width="12" />
   <a href = 'yash.latapoojari@gmail.com'>
