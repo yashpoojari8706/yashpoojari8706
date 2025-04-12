@@ -1,6 +1,6 @@
 <h2>👋 Hi there! I'm Yash Poojari.</h2>
 <br>👨‍🎓 Currently, I'm a student pursuing a diploma in Computer Science Engineering at Shri Bhagubhai Mafatlal Polytechnic.<br>
-<br>👨‍💻 Right now, I'm interning as an Website Designer at Hophead until June 22nd.<br>
+<br>👨‍💻 Completed an internship as an Website Designer at Hophead Apparels.<br>
 <br>🌟Skills:<br>
 <ul>
 <li>HTML, CSS, JS</li>
