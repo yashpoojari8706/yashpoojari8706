@@ -34,8 +34,7 @@ Git | GitHub | VS Code | Postman
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/C" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,cs,php,mysql,flask,bootstrap,git,github,tensorflow,sklearn,react,firebase,vscode&perline=8" />
-  </a>
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,python,flask,java,php,mysql,postgres,mongodb,firebase,supabase,pandas,numpy,pytorch,tensorflow,sklearn,aws,docker,git,github,postman,vscode,c,cs&perline=9" />
 </p>
 
 
