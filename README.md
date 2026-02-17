@@ -33,8 +33,11 @@ TensorFlow | Scikit-Learn | LLM Integration
 Git | GitHub | VS Code | Postman  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,flask,php,mysql,firebase,tensorflow,sklearn,git,github,vscode&perline=7" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/C" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,cs,php,mysql,flask,bootstrap,git,github,tensorflow,sklearn,react,firebase,vscode&perline=8" />
+  </a>
 </p>
+
 
 ---
 
