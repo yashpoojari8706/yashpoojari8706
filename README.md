@@ -58,6 +58,9 @@ Integrated Llama 3 (70B) by Meta to:
 
 ## 🚀 Projects
 
+### 🎧 Real-Time Medical Transcription Assignment System (Flask + Socket.IO)
+Live assignment distribution system using real-time WebSocket communication.
+
 ### 📝 Typing Test Application (Java)
 Speed-testing application with performance tracking and accuracy analysis.
 
@@ -66,9 +69,6 @@ Responsive real estate listing platform with structured UI and modern design.
 
 ### 🛫 Tours & Travel Website (PHP + MySQL)
 Dynamic travel booking website with backend database integration.
-
-### 🎧 Real-Time Medical Transcription Assignment System (Flask + Socket.IO)
-Live assignment distribution system using real-time WebSocket communication.
 
 ---
 
