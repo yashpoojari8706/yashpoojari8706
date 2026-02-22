@@ -95,11 +95,11 @@ Dynamic travel booking website with backend database integration.
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/yash-poojari-3444952b0" target="_blank">
+  <a href="https://www.linkedin.com/in/yash-poojari-8706y" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Yash%20Poojari-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <br><br>
-  <a href="mailto:yash.latapoojari@gmail.com">
+  <a href="mailto:poojariyash08@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
