@@ -102,5 +102,5 @@ Dynamic travel booking website with backend database integration.
   <a href="mailto:poojariyash08@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
-</p>>
+</p>
 
