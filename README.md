@@ -51,7 +51,7 @@ Docker | AWS | GitHub Actions | CI/CD
 Git | GitHub | VS Code | Postman | Linux
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,python,flask,fastapi,java,php,c,mysql,postgres,mongodb,firebase,supabase,tensorflow,pytorch,sklearn,docker,aws,git,github,postman,vscode,linux&perline=10" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,python,flask,fastapi,java,php,c,mysql,sqlite,postgres,mongodb,firebase,supabase,tensorflow,pytorch,sklearn,docker,aws,git,github,postman,vscode,linux&perline=10" />
 </p>
 
 ---
