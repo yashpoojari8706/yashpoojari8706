@@ -3,104 +3,122 @@
 <h1 align="center">Hi 👋, I'm Yash Poojari</h1>
 <h3 align="center">🚀 AI/ML Engineer | Full Stack Developer | Real-Time Systems Builder</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Full+Stack+Developer;Real-Time+Systems+Builder;Building+AI-Powered+Applications" alt="Typing SVG" />
+</p>
+
 ---
 
 ## 👨‍🎓 About Me
 
-- 🎓 BTech in Artificial Intelligence & Machine Learning — DJ Sanghvi College of Engineering  
-- 🎓 Diploma in Computer Science Engineering — Shri Bhagubhai Mafatlal Polytechnic  
-- 💻 Former Website Designer Intern at Hophead Apparels  
-- 🌱 Learning Machine Learning, Backend Development, and System Design  
-- ⚡ Interested in AI/ML, Web Development, and Real-Time Systems  
+* 🎓 BTech in Artificial Intelligence & Machine Learning — DJ Sanghvi College of Engineering
+* 🎓 Diploma in Computer Science Engineering — Shri Bhagubhai Mafatlal Polytechnic
+* 💼 Software Development Engineer Intern at Cogniify
+* 💻 Former Website Designer Intern & Team Head at Hophead Apparels
+* 🌱 Learning Machine Learning, Backend Development, and System Design
+* ⚡ Interested in AI/ML, Web Development, and Real-Time Systems
 
 ---
 
-## ⚙️ Tech Stack
+# ⚙️ Tech Stack
 
-### 💻 Frontend
-HTML | CSS | JavaScript | React | Bootstrap  
+### 💻 Programming Languages
 
-### 🔧 Backend
-Python | Flask | PHP  
+Python | JavaScript | Java | C | PHP | SQL
 
-### 🗄 Database
-MySQL | Firebase  
+### 🎨 Frontend Development
+
+HTML5 | CSS3 | React.js | Bootstrap | Tailwind CSS
+
+### 🔧 Backend Development
+
+FastAPI | Flask | REST APIs | WebSockets | SSE | Real-Time Systems
+
+### 🗄 Databases
+
+PostgreSQL | MySQL | MongoDB | Firebase | Supabase
 
 ### 🤖 AI / ML
-TensorFlow | Scikit-Learn | LLM Integration  
+
+TensorFlow | PyTorch | Scikit-Learn | Pandas | NumPy | LLM Integration | Prompt Engineering | Agent-Based Systems | RAG Pipelines
+
+### ☁️ Cloud / DevOps
+
+Docker | AWS | GitHub Actions | CI/CD
 
 ### 🛠 Tools
-Git | GitHub | VS Code | Postman  
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/C" target="_blank">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,python,flask,java,php,mysql,postgres,mongodb,firebase,supabase,pytorch,tensorflow,sklearn,aws,docker,git,github,postman,vscode,c,cs&perline=13" />  </a>
+Git | GitHub | VS Code | Postman | Linux
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,python,flask,fastapi,java,php,c,mysql,postgres,mongodb,firebase,supabase,tensorflow,pytorch,sklearn,docker,aws,git,github,postman,vscode,linux&perline=10" />
 </p>
-
-
 
 ---
 
-## 🌟 Featured Project
+# 🌟 Featured Project
 
-### 📈 Analyzr – Stock Market Analytics Platform
+## 📈 Analyzr – AI Stock Market Analytics Platform
 
 AI-powered stock analytics platform built using React.js, Python, and Firebase.
 
-Integrated Llama 3 (70B) by Meta to:
-- Generate market sentiment summaries  
-- Provide AI-based stock insights  
-- Explain trends in natural language  
+### ✨ Features
 
-**Tech Stack:** React.js | Python | Firebase | REST APIs | Llama 3 (70B)
+* AI-generated market sentiment summaries
+* Natural language stock trend explanations
+* Real-time analytics dashboards
+* REST API-based financial data integration
 
----
+### 🧠 AI Integration
 
-## 🚀 Projects
+Integrated **Llama 3 (70B)** by Meta to:
 
-### 🎧 Real-Time Medical Transcription Assignment System (Flask + Socket.IO)
-Live assignment distribution system using real-time WebSocket communication.
+* Generate intelligent market insights
+* Explain trends in human-readable format
+* Analyze stock sentiment dynamically
 
-### 📝 Typing Test Application (Java)
-Speed-testing application with performance tracking and accuracy analysis.
+### ⚙️ Tech Stack
 
-### 🏨 Real Estate Website (HTML, CSS, JS)
-Responsive real estate listing platform with structured UI and modern design.
-
-### 🛫 Tours & Travel Website (PHP + MySQL)
-Dynamic travel booking website with backend database integration.
+React.js | Python | Firebase | REST APIs | Llama 3 (70B)
 
 ---
 
-## 🧩 Problem Solving & Core CS
+# 💼 Experience
 
-- 📌 Data Structures & Algorithms  
-- 📌 Object-Oriented Programming  
-- 📌 System Design Fundamentals  
-- 📌 Database Design & Normalization  
+## 💻 Software Development Engineer Intern — Cogniify
 
----
+📅 Apr 2026 – Present
 
-## 💼 Experience
-
-### 💻 Website Designer Intern & Team Head – Hophead Apparels
-
-- Led the website design team and coordinated UI development  
-- Designed responsive and production-ready UI components  
-- Improved visual hierarchy and layout consistency  
-- Contributed to live website feature deployment  
+* Developing AI-driven web applications and scalable software solutions
+* Implementing machine learning-integrated backend functionalities and APIs
+* Optimizing application performance and reliability for production systems
 
 ---
 
-## 📫 Connect With Me
+## 🎨 Website Designer Intern & Team Head — Hophead Apparels
 
-<p align="left">
+📅 May 2024 – Jun 2024
+
+* Led website design team and coordinated UI development
+* Designed responsive and production-ready interfaces
+* Improved visual hierarchy and deployment readiness
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
   <a href="https://www.linkedin.com/in/yash-poojari-8706y">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:poojariyash08@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
   </a>
 </p>
 
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
